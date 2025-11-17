@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm niluxi</h1>
-<h3 align="center">A passionate DevSecOps student developer from France</h3>
+<h3 align="center">A passionate DevSecOps developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uspatata&label=Profile%20views&color=0e75b6&style=flat" alt="uspatata" /> </p>
 
